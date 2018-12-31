@@ -1,0 +1,1 @@
+module github.com/notsu/plz-example/services/post
